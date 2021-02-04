@@ -7,6 +7,9 @@
 
 3.直接下载.exe文件运行即可，脚本会在同目录下生成截图.jpg文件
 
+点此下载封装后的脚本
+https://github.com/QiYi92/Youth_Learning_Reptile/releases
+
 ————本项目为以上开源项目的二次派生修改，非原创————
 
 源项目地址https://gitee.com/syaoranz/qndxx
